@@ -1,2 +1,8 @@
-enter numbers
+enter no of elements
+enter elements
+enter target
 2
+3
+4
+1
+1
