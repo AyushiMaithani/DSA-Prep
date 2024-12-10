@@ -1,8 +1,5 @@
-enter no of elements
+enter no of rows
+enter no of cols
 enter elements
 enter target
-2
-3
-4
-1
-1
+true
