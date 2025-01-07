@@ -1,5 +1,0 @@
-enter no of rows
-enter no of cols
-enter elements
-enter target
-true
